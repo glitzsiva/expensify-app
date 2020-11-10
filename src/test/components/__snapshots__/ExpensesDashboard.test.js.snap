@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expenses Dasboard  1`] = `
+<div>
+  Dasboard page
+  <Connect(ExpensesListFilters) />
+  <Connect(ExpenseList) />
+</div>
+`;
