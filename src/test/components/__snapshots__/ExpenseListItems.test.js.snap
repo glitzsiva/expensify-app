@@ -11,9 +11,9 @@ exports[`Expenses List Items  1`] = `
     </h1>
   </Link>
   <h5>
-    10000
+    $10,000.10
     -
-    345600000
+    January 5th,1970
   </h5>
 </div>
 `;
