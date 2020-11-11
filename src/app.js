@@ -6,6 +6,7 @@ import { Provider } from 'react-redux';
 import {addExpenses } from './actions/expenses';
 import { setTextFilter, sortByAmount, sortByDate } from './actions/filters';
 import visibleExpensesFilters from './selectors/expenses';
+import 'normalize.css/normalize.css';
 import './Styles/style.scss';
 import 'react-dates/lib/css/_datepicker.css';
 
